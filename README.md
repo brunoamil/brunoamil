@@ -1,4 +1,15 @@
-### Hi there 👋
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Bruno Lima!
+
+💻 Developer Front-end at [Universidade Ceuma](https://www.ceuma.br) <br>
+🏡 Brazilian, live in São Luís, MA.
+🌱 I’m currently learning NextJS, TypeScript and Storybook
+💬 Ask me about travels, League of Legends or all things...
+⚡ Fun fact: I Love Tomorrowland <3
+
+### You can find me on
+
+📺 [Linkedin](https://www.linkedin.com/in/bruno-amil/) <br>
+🐦 [Twitter](https://twitter.com/brunoamiil) <br>
 
 <!--
 **brunoamil/brunoamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
