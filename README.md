@@ -8,7 +8,7 @@
 
 ### You can find me on
 
-📺 [Linkedin](https://www.linkedin.com/in/bruno-amil/) <br>
+👯 [Linkedin](https://www.linkedin.com/in/bruno-amil/) <br>
 🐦 [Twitter](https://twitter.com/brunoamiil) <br>
 
 <!--
